@@ -1,0 +1,2 @@
+(this["webpackJsonpreact-resume-website"]=this["webpackJsonpreact-resume-website"]||[]).push([[0],{3:function(e,t,n){e.exports=n(9)},8:function(e,t,n){},9:function(e,t,n){"use strict";n.r(t);var r=n(0),a=n.n(r),c=n(2),s=n.n(c);n(8);var u=function(){return a.a.createElement("div",{className:"App"},a.a.createElement("h1",null,"Yo"))};s.a.render(a.a.createElement(u,null),document.getElementById("root"))}},[[3,1,2]]]);
+//# sourceMappingURL=main.c08e2518.chunk.js.map
