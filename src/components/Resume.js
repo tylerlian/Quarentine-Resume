@@ -5,7 +5,7 @@ import './Resume.css';
 
 function Resume() {
   return (
-    <div className='resume-container' style={{ background: `url(${process.env.PUBLIC_URL}/resume.jpg`}}>
+    <div className='resume-container'>
       <h1>QUARANTINE RESUME</h1>
       <p>Made with React!</p>
       <div className='resume-btns'>
