@@ -12,7 +12,7 @@ function Navbar() {
     <>
       <nav className='navbar'>
         <div className='navbar-container'>
-          <Link to='/' className='navbar-logo' onClick={closeMobileMenu}>
+          <Link to='/react-resume-website' className='navbar-logo' onClick={closeMobileMenu}>
           TLRLN
           </Link>
           <div className='menu-icon' onClick ={handleClick}>
