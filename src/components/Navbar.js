@@ -17,7 +17,7 @@ function Navbar() {
           </div>
           <ul className='nav-menu'>
             <li className='nav-item'>
-              <Link to='/' className='nav-links'>
+              <Link to='/react-resume-website' className='nav-links'>
                 Home
               </Link>
             </li>
