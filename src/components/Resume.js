@@ -2,10 +2,11 @@ import React from 'react';
 import '../App.css';
 import { Button } from './Button';
 import './Resume.css';
+import Background from 'resume.jpg';
 
 function Resume() {
   return (
-    <div className='resume-container'>
+    <div className='resume-container' style={{backgroundImage: "url(" + Background + ")"}}>
       <h1>QUARANTINE RESUME</h1>
       <p>Made with React!</p>
       <div className='resume-btns'>
