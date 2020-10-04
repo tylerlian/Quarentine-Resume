@@ -6,7 +6,7 @@ import Background from '../resume.jpg';
 
 function Resume() {
   return (
-    <div className='resume-container' style={{backgroundImage: `url(${Background})`}}>
+    <div className='resume-container' style={{backgroundImage: `url(${Background})`, textAlign: `center`}}>
       <h1>QUARANTINE RESUME</h1>
       <p>Made with React!</p>
       <div className='resume-btns'>
