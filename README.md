@@ -1,4 +1,4 @@
-# Quarentine Resume
+# Quarantine Resume
 Wanted an easier alternative to share my resume at career fairs because of COVID-19
 
 Feel free to use the source code to share your resume!
