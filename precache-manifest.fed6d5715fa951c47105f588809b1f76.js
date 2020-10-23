@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1fea3ecc0d7dcd74cbb425756832c0b8",
+    "revision": "04ffebc109db413976b1faa2170f7a85",
     "url": "/quarentine-resume/index.html"
   },
   {
-    "revision": "21a47838d21572255168",
+    "revision": "6daefbefa0c407cb8ed6",
     "url": "/quarentine-resume/static/css/main.072d773f.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/quarentine-resume/static/js/2.92275d32.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "21a47838d21572255168",
-    "url": "/quarentine-resume/static/js/main.68e5becf.chunk.js"
+    "revision": "6daefbefa0c407cb8ed6",
+    "url": "/quarentine-resume/static/js/main.16424892.chunk.js"
   },
   {
     "revision": "a067c9b5908cf2c81f20",
