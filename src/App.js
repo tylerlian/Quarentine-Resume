@@ -10,7 +10,7 @@ function App() {
       <Router>
         <Navbar />
         <Switch>
-          <Route path='/react-resume-website' exact component={Home} />
+          <Route path='/quarentine-resume' exact component={Home} />
         </Switch>
       </Router>
     </>
