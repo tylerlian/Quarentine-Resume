@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/quarentine-resume/static/css/main.072d773f.chunk.css",
-    "main.js": "/quarentine-resume/static/js/main.a34014d8.chunk.js",
-    "main.js.map": "/quarentine-resume/static/js/main.a34014d8.chunk.js.map",
-    "runtime-main.js": "/quarentine-resume/static/js/runtime-main.d508eb21.js",
-    "runtime-main.js.map": "/quarentine-resume/static/js/runtime-main.d508eb21.js.map",
-    "static/js/2.92275d32.chunk.js": "/quarentine-resume/static/js/2.92275d32.chunk.js",
-    "static/js/2.92275d32.chunk.js.map": "/quarentine-resume/static/js/2.92275d32.chunk.js.map",
-    "index.html": "/quarentine-resume/index.html",
-    "precache-manifest.68107572209971fe40a2c97fadf2894a.js": "/quarentine-resume/precache-manifest.68107572209971fe40a2c97fadf2894a.js",
-    "service-worker.js": "/quarentine-resume/service-worker.js",
-    "static/css/main.072d773f.chunk.css.map": "/quarentine-resume/static/css/main.072d773f.chunk.css.map",
-    "static/js/2.92275d32.chunk.js.LICENSE.txt": "/quarentine-resume/static/js/2.92275d32.chunk.js.LICENSE.txt",
-    "static/media/resume1.jpg": "/quarentine-resume/static/media/resume1.993b3336.jpg"
+    "main.css": "/quarantine-resume/static/css/main.072d773f.chunk.css",
+    "main.js": "/quarantine-resume/static/js/main.d7d6632e.chunk.js",
+    "main.js.map": "/quarantine-resume/static/js/main.d7d6632e.chunk.js.map",
+    "runtime-main.js": "/quarantine-resume/static/js/runtime-main.c65c2ac4.js",
+    "runtime-main.js.map": "/quarantine-resume/static/js/runtime-main.c65c2ac4.js.map",
+    "static/js/2.5cfbb071.chunk.js": "/quarantine-resume/static/js/2.5cfbb071.chunk.js",
+    "static/js/2.5cfbb071.chunk.js.map": "/quarantine-resume/static/js/2.5cfbb071.chunk.js.map",
+    "index.html": "/quarantine-resume/index.html",
+    "precache-manifest.cadc96a450ff032f23fa462f76d92def.js": "/quarantine-resume/precache-manifest.cadc96a450ff032f23fa462f76d92def.js",
+    "service-worker.js": "/quarantine-resume/service-worker.js",
+    "static/css/main.072d773f.chunk.css.map": "/quarantine-resume/static/css/main.072d773f.chunk.css.map",
+    "static/js/2.5cfbb071.chunk.js.LICENSE.txt": "/quarantine-resume/static/js/2.5cfbb071.chunk.js.LICENSE.txt",
+    "static/media/resume1.jpg": "/quarantine-resume/static/media/resume1.993b3336.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.d508eb21.js",
-    "static/js/2.92275d32.chunk.js",
+    "static/js/runtime-main.c65c2ac4.js",
+    "static/js/2.5cfbb071.chunk.js",
     "static/css/main.072d773f.chunk.css",
-    "static/js/main.a34014d8.chunk.js"
+    "static/js/main.d7d6632e.chunk.js"
   ]
 }
