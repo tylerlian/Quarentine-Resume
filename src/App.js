@@ -10,7 +10,7 @@ function App() {
       <Router>
         <Navbar />
         <Switch>
-          <Route path='/quarentine-resume' exact component={Home} />
+          <Route path='/quarantine-resume' exact component={Home} />
         </Switch>
       </Router>
     </>

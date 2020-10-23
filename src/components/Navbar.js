@@ -12,7 +12,7 @@ function Navbar() {
     <>
       <nav className='navbar'>
         <div className='navbar-container'>
-          <Link to='/quarentine-resume' className='navbar-logo' onClick={closeMobileMenu}>
+          <Link to='/quarantine-resume' className='navbar-logo' onClick={closeMobileMenu}>
           TLRLN
           </Link>
           <div className='menu-icon' onClick ={handleClick}>
