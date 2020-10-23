@@ -2,7 +2,7 @@ import React from 'react';
 import '../App.css';
 import { Button } from './Button';
 import './Resume.css';
-import Background from '../resume.jpg';
+import Background from '../resume1.jpg';
 
 function Resume() {
   return (
