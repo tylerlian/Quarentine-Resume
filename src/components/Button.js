@@ -19,7 +19,7 @@ export const Button = ({
   const checkButtonSize = SIZES.includes(buttonSize) ? buttonSize : SIZES[0];
 
   return (
-    <a href='TYLER_LIAN_RESUME_FALL2020.pdf' download="LIAN_TYLER_RESUME_FALL2020" className='btn-mobile'>
+    <a href='TYLER_LIAN_RESUME_1_2021.pdf' download="TYLER_LIAN_RESUME_1_2021" className='btn-mobile'>
       <button
         className={`btn ${checkButtonStyle} ${checkButtonSize}`}
         onClick={onClick}
